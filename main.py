@@ -10,3 +10,6 @@ def test_one():
 
 test_one()
 
+test_binary_search()
+
+
